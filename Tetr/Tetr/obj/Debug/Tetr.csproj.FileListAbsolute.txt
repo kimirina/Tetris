@@ -1,0 +1,5 @@
+/Users/irinakim/Desktop/Tetr/Tetr/bin/Debug/Tetr.exe
+/Users/irinakim/Desktop/Tetr/Tetr/bin/Debug/Tetr.pdb
+/Users/irinakim/Desktop/Tetr/Tetr/obj/Debug/Tetr.csprojAssemblyReference.cache
+/Users/irinakim/Desktop/Tetr/Tetr/obj/Debug/Tetr.exe
+/Users/irinakim/Desktop/Tetr/Tetr/obj/Debug/Tetr.pdb
